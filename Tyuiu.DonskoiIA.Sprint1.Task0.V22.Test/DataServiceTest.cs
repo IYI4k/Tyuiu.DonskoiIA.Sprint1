@@ -3,7 +3,7 @@ using System;
 
 using Tyuiu.DonskoiIA.Sprint1.Task0.V22.Lib;
 
-namespace Tyuiu.DonskoiIA.Sprint1.V22.Test
+namespace Tyuiu.DonskoiIA.Sprint1.Task0.V22.Test
 {
     [TestClass]
     public class DataServiceTest
