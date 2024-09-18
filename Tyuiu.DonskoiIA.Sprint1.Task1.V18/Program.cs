@@ -44,7 +44,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task1.V18
 
             Console.WriteLine(ds.Calculate(x, y));
 
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
