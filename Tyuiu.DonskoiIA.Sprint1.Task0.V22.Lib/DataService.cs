@@ -12,7 +12,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task0.V22.Lib
     {
         public double Calculate()
         {
-            return 6 * 2 - (5 - 3 );
+            return 6 * 2 - (5 - 3);
         }
     }
 }
