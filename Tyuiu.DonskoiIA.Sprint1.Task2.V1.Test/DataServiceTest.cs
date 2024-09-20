@@ -14,7 +14,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task1.V1.Test
             DataService ds = new DataService();
             int x = 1;
             var res = ds.ConvertKmToM(x);
-            Assert.AreEqual(1.609, res);
+            Assert.AreEqual(0.622, res);
         }
     }
 }

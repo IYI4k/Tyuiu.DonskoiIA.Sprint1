@@ -12,7 +12,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task2.V1.Lib
     {
         public double ConvertKmToM(int value)
         {
-            return value * 1.609; 
+            return Convert.ToInt32(value * 1000 / 1.609) / 1000.0; 
         }
     }
 }
