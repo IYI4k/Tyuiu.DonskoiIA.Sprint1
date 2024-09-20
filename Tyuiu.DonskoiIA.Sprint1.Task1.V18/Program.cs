@@ -16,7 +16,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task1.V18
             Console.Title = "Спринт #1 | Выполнил: Донской И. А. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
+            Console.WriteLine("* Тема: Организация ввода\\вывода в консольных приложениях                 *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #18                                                             *");
             Console.WriteLine("* Выполнил: Донской Иван Андреевич | АСОиУб-24-1                          *");
