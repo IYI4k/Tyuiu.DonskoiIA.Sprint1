@@ -16,7 +16,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task4.V23
             Console.Title = "Спринт #1 | Выполнил: Донской И. А. | АСОиУб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
+            Console.WriteLine("* Тема: Class Math                                                        *");
             Console.WriteLine("* Задание #4                                                              *");
             Console.WriteLine("* Вариант #23                                                             *");
             Console.WriteLine("* Выполнил: Донской Иван Андреевич | АСОиУб-24-1                          *");
