@@ -12,7 +12,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task6.V1.Lib
     {
         public string SymbolCode(string value)
         {
-            return "Символ: " + value[0] + " Код: " + Convert.ToInt32(value[0]);
+            return "" + Convert.ToInt32(value[0]);
         }
     }
 }

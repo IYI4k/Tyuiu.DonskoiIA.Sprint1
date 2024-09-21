@@ -13,7 +13,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task6.V1.Test
         {
             DataService ds = new DataService();
             var res = ds.SymbolCode("1");
-            Assert.AreEqual("Символ: 1 Код: 49", res);
+            Assert.AreEqual("49", res);
         }
     }
 }
