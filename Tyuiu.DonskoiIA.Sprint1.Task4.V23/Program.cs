@@ -25,7 +25,7 @@ namespace Tyuiu.DonskoiIA.Sprint1.Task4.V23
             Console.WriteLine("* Написать программу, которая запрашивает у пользователя исходные данные, *");
             Console.WriteLine("* вычисляет результат по формуле (sqrt(|x + y|)) / |3 - x| и печатает     *");
             Console.WriteLine("* результат на экране.                                                    *");
-            Console.WriteLine("*                                                                        *");
+            Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
             Console.WriteLine("***************************************************************************");
