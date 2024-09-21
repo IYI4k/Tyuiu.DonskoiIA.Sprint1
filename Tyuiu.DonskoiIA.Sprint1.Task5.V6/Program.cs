@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.DonskoiIA.Sprint1.Task5.V6.Lib;
 
-namespace Tyuiu.DonskoiIA.Sprint1.Task5.V23
+namespace Tyuiu.DonskoiIA.Sprint1.Task5.V6
 {
     class Program
     {
